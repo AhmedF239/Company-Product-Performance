@@ -1,7 +1,9 @@
 Overview
+
 This repository contains interactive Power BI dashboards designed to analyze and monitor product performance metrics across companies. The dashboards provide both daily and monthly views, offering insights into key performance indicators (KPIs) for decision-making and operational improvements.
 
 Dashboards
+
 Daily View: Product Performance per Company
 
 Tracks daily performance metrics, including call volume, abandoned call rates, agent activity, conversion rates, match rates, and revenue per call.
